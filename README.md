@@ -1,1 +1,1 @@
-# spell-arbitrage
+# spell-arbitrage-bot
